@@ -67,5 +67,4 @@ Service d'envoi d'emails avec templates Thymeleaf
 <div align="center">
   <i>💡 Ouvert aux opportunités freelance et CDI | Disponible immédiatement</i>
 </div>
-```
 
