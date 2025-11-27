@@ -37,35 +37,17 @@
 
 ## 🎯 Projets Phares
 
-### 🔐 [OAuth Library](https://github.com/mloum1/loum-oauth-lib)
+### 🔐 [OAuth Library](https://github.com/mloum1/oauthService)
 Bibliothèque d'authentification JWT avec Spring Security 6
 - ⚡ Réduit le temps de setup de 2 jours à 5 minutes
 - 🧪 85% de couverture de tests
 - 📦 Publiée sur Nexus privé
 
-### 📧 [Email Library](https://github.com/mloum1/loum-email-lib)
+### 📧 [Email Library](https://github.com/mloum1/emailing-service-)
 Service d'envoi d'emails avec templates Thymeleaf
 - 📨 Gestion des envois en masse
 - 🔄 Retry automatique
 - 🎨 Templates HTML personnalisables
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mloum1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mloum1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mloum1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🏆 Réalisations
-
-- 💼 **3+ projets** en production
-- 📚 **2 bibliothèques** réutilisables créées
-- ⚡ **-30% temps de dev** sur nouveaux projets grâce aux libs
-- 🌍 Projets **France & Sénégal**
 
 ## 📫 Me contacter
 
@@ -88,4 +70,3 @@ Service d'envoi d'emails avec templates Thymeleaf
 </div>
 ```
 
----
