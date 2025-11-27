@@ -59,7 +59,6 @@ Service d'envoi d'emails avec templates Thymeleaf
 
 </div>
 
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mloum1&color=00D4FF&style=flat-square&label=Profile+Views" alt="Profile views" />
